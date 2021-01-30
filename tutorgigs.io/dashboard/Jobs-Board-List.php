@@ -690,7 +690,7 @@ $qq.=" OR (add_observer='1' and tut_observer_id IS NULL)) ";
 
                      <tr>
 
-                        <th>Sessions Date/Time</th>
+                        <th>cSessions Date/Time</th>
 
                         <th>Claim Tutor Gig</th>
                         <th>Status</th>
